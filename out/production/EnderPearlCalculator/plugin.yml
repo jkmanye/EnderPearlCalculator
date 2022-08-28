@@ -1,0 +1,6 @@
+name: EnderPearlCalculator
+main: xyz.devmeko.MCPlugin.EnderPearlCalculator.Main
+version: 0.0.1-SNAPSHOT
+commands:
+  calibrate:
+    description: Calibrating...

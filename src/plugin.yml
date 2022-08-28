@@ -1,0 +1,7 @@
+name: EnderPearlCalculator
+main: xyz.devmeko.MCPlugin.EnderPearlCalculator.Main
+version: 0.0.1-SNAPSHOT
+commands:
+  calibrate:
+    description: Calculates the best distance! (Actually just generates the array for generating the TF model lol)
+  
